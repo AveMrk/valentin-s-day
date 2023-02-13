@@ -5,7 +5,7 @@ let timer = setInterval(function() {
   // сколько времени прошло с начала анимации?
   let timePassed = Date.now() - start;
 
-  if (timePassed >= 4500) {
+  if (timePassed >= 3800) {
     clearInterval(timer); // закончить анимацию через 2 секунды
     return;
   }
