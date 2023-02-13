@@ -39,3 +39,10 @@ img {
         margin-left: 250px;
         margin-top: 600px;
     }
+    img {
+    width: 100px;
+    }
+    #block1{
+    background-image: url('background2.jpg');
+    }
+}
