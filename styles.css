@@ -34,7 +34,7 @@ img {
 #block2{
   background-color: rgba(0, 0, 0, 0.3);
 }
-@media(min-width: 320px and max-width: 1080px) {
+@media(max-width: 1080px) {
     h1 {
         margin-left: 250px;
         margin-top: 600px;
